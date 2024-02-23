@@ -1,0 +1,1 @@
+{"version":3,"file":"create-book.dto.js","sourceRoot":"","sources":["../../../src/books/dto/create-book.dto.ts"],"names":[],"mappings":";;;;;;;;;;;;AAAA,6CAA8C;AAE9C,MAAa,aAAa;CAYzB;AAZD,sCAYC;AAPC;IAJC,IAAA,qBAAW,EAAC;QACX,IAAI,EAAE,MAAM;QACZ,WAAW,EAAE,YAAY;KAC1B,CAAC;;4CACY;AAMd;IAJC,IAAA,qBAAW,EAAC;QACX,IAAI,EAAE,MAAM;QACZ,WAAW,EAAE,cAAc;KAC5B,CAAC;;+CACe"}

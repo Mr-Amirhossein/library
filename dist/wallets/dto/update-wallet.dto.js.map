@@ -1,0 +1,1 @@
+{"version":3,"file":"update-wallet.dto.js","sourceRoot":"","sources":["../../../src/wallets/dto/update-wallet.dto.ts"],"names":[],"mappings":";;;;;;;;;;;;AAAA,6CAA8C;AAE9C,MAAa,eAAe;CAY3B;AAZD,0CAYC;AAPC;IAJC,IAAA,qBAAW,EAAC;QACX,WAAW,EAAE,gBAAgB;QAC7B,IAAI,EAAE,MAAM;KACb,CAAC;;gDACc;AAMhB;IAJC,IAAA,qBAAW,EAAC;QACX,WAAW,EAAE,oBAAoB;QACjC,IAAI,EAAE,MAAM;KACb,CAAC;;0DACwB"}

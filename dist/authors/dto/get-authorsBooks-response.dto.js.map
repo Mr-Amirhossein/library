@@ -1,0 +1,1 @@
+{"version":3,"file":"get-authorsBooks-response.dto.js","sourceRoot":"","sources":["../../../src/authors/dto/get-authorsBooks-response.dto.ts"],"names":[],"mappings":";;;;;;;;;;;;AAAA,6CAA8C;AAC9C,qEAA8D;AAE9D,MAAa,2BAA2B;CAMvC;AAND,kEAMC;AADC;IAJC,IAAA,qBAAW,EAAC;QACX,IAAI,EAAE,CAAC,+BAAa,CAAC;QACrB,WAAW,EAAE,uBAAuB;KACrC,CAAC;;0DACqB"}

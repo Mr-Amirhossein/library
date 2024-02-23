@@ -1,0 +1,1 @@
+{"version":3,"file":"get-bookById-request.dto.js","sourceRoot":"","sources":["../../../src/books/dto/get-bookById-request.dto.ts"],"names":[],"mappings":";;;;;;;;;;;;AAAA,6CAA8C;AAC9C,qDAAyC;AAEzC,MAAa,qBAAqB;CAOjC;AAPD,sDAOC;AADC;IALC,IAAA,qBAAW,EAAC;QACX,IAAI,EAAE,MAAM;QACZ,WAAW,EAAE,YAAY;KAC1B,CAAC;IACD,IAAA,wBAAM,EAAC,CAAC,EAAE,EAAE,OAAO,EAAE,2BAA2B,EAAE,CAAC;;qDACrC"}
